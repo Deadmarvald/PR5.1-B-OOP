@@ -1,0 +1,9 @@
+﻿  UT5.1B.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1B\PR5.1B\Money.cpp(90,24): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1B\PR5.1B\Money.cpp(103,17): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1B\PR5.1B\Money.cpp(104,17): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1B\PR5.1B\Money.cpp(143): warning C4715: 'Money::operator>': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1B\PR5.1B\Money.cpp(199): warning C4715: 'Money::operator>=': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1B\PR5.1B\Money.cpp(168): warning C4715: 'Money::operator<': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1B\PR5.1B\Money.cpp(230): warning C4715: 'Money::operator<=': not all control paths return a value
+  UT5.1B.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR5.1B\Debug\UT5.1B.dll
